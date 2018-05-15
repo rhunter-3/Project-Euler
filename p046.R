@@ -27,7 +27,7 @@ repeat{
                 }
             
         }
-    if (exists("ans") || p == 6000){
+    if (exists("ans")){
         break
     }    
     }
